@@ -21,3 +21,13 @@ Customer churn dataset with telecom customer details.
 - Scikit-learn
 - Matplotlib
 - Seaborn
+
+## 📊 Key Insights
+- Month-to-month customers churn more
+- High charges increase churn
+- Low tenure customers churn more
+
+## 🚀 Future Improvements
+- Hyperparameter tuning
+- Try XGBoost
+- Deployment (Streamlit)
