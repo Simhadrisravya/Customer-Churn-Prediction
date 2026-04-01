@@ -39,6 +39,7 @@ Models used:
 
 ## 📊 Model Performance
 - Logistic Regression Accuracy: 0.80
+-  Decision Tree Accuracy: 0.78
 - Random Forest Accuracy: 0.85
 - AUC Score: 0.87
 
@@ -69,12 +70,26 @@ Models used:
 - Customers with low tenure are more likely to churn
 - Long-term contract customers are more stable
 
+## 💡 Business Impact
+
+- Helps companies identify high-risk customers
+- Reduces customer churn and revenue loss
+- Supports targeted marketing strategies
+
 
 ## 🚀 Future Improvements
 - Hyperparameter tuning
 - Try advanced models (XGBoost)
 - Deploy using Streamlit
 
+## 🔄 Project Workflow
+
+1. Data Collection
+2. Data Cleaning
+3. Exploratory Data Analysis
+4. Feature Engineering
+5. Model Training
+6. Model Evaluation
 
 ## 📌 Conclusion
 This project demonstrates how machine learning can be used to predict customer churn and generate actionable business insights.
