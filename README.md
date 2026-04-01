@@ -38,9 +38,9 @@ Models used:
 
 
 ## 📊 Model Performance
-
-- Accuracy: ~80%
-- AUC Score: ~0.85 (example)
+- Logistic Regression Accuracy: 0.80
+- Random Forest Accuracy: 0.85
+- AUC Score: 0.87
 
 
 ## 📉 ROC Curve
@@ -61,6 +61,13 @@ Models used:
 - Matplotlib
 - Seaborn
 - Scikit-learn
+
+## 📊 Key Insights
+
+- Customers with month-to-month contracts have higher churn rate
+- High monthly charges increase churn probability
+- Customers with low tenure are more likely to churn
+- Long-term contract customers are more stable
 
 
 ## 🚀 Future Improvements
